@@ -20,4 +20,5 @@ android {
 
 dependencies {
     compile 'com.googlecode.android-query:android-query:0.25.9'
+    compile 'com.squareup.okhttp:okhttp:1.3.0'
 }
